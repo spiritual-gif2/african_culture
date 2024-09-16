@@ -1,5 +1,5 @@
 <?php
-$hostIP = 127.0.0.1
+$hostIP = 127.0.0.1;
 use Illuminate\Support\Str;
 
 return [
